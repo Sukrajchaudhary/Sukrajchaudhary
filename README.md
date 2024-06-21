@@ -10,6 +10,6 @@ I'm a passionate software developer with a love for building innovative and effi
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukrajchaudhary&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sukraj Chaudhary&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Sukrajchaudharyy&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
